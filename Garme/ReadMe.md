@@ -5,5 +5,3 @@ Universe Dev : https://discord.gg/qBPjHQfzm8
 
 Script Free, a ne pas revendre ou a se l'approprier !
 Merci ;)
-
-Penser à mettre le sql :)
